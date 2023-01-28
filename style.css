@@ -166,8 +166,8 @@ top: 4px;
 font-family:calibri;
 font-size:17px;
 font-weight:bold;
-left:-71px;
-width:65px;
+left:-81px;
+width:75px;
 }
 
 #coords:hover:before {
@@ -335,7 +335,7 @@ background-repeat: no-repeat;
 background-size: cover;
 border:2px solid black;
 cursor:pointer;
-background-image:url('back.png');
+background-image:url('home.png');
 }
 
 #colorpicker{
@@ -406,7 +406,7 @@ background-color:white;
 color:black;
 font-weight:bold;
 font-family:arial;
-line-height:1.5;
+line-height:1.1;
 width:90%;
 }
 
@@ -490,4 +490,62 @@ margin-left:auto;
 margin-right:auto;
 margin-top:10px;
 background-color:black;
+}
+
+#sweep1{
+margin-left: auto;
+margin-right: auto;
+width:500px;
+border:3px solid rgb(0,0,255);
+border-collapse:collapse;
+color:rgb(0,255,0);
+}
+
+#sweep2{
+text-align:center;
+letter-spacing:5px;
+font-size:50px;
+font-family:Arial Black;
+text-decoration:underline;
+text-decoration-color:rgb(0,0,255);
+color:white;
+}
+
+#sweep3{
+background-color:black;
+text-align:center;
+color:rgb(0,0,255);
+font-size:26px;
+font-family:tahoma;
+font-weight:bold;
+}
+
+#sweep4{
+list-style-image:url('px2.png');
+with:30px;
+}
+
+#sweep5{
+background-color:black;
+color:blue;
+font-weight:bold;
+font-family:tahoma;
+line-height:1.5;
+width:90%;
+}
+
+#occupie4{
+background-color:white;
+color:black;
+font-weight:bold;
+font-family:arial;
+line-height:1.5;
+width:90%;
+}
+
+#occupylast{
+color:white;
+font-size:23px;
+font-family:calibri;
+font-weight:bold;
 }
