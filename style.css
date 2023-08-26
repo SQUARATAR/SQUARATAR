@@ -306,6 +306,7 @@ font-family:Arial;
 
 cc11{
 color:red;
+
 }
 
 #mcim{
@@ -544,4 +545,14 @@ color:white;
 font-size:23px;
 font-family:calibri;
 font-weight:bold;
+}
+
+#yee{
+text-align:center;
+font-size:18px;
+color:white;
+}
+
+#trademark{
+font-size:16px;
 }
